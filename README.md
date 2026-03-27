@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0223-rectangle-area](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0223-rectangle-area) |
 | [0319-bulb-switcher](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0319-bulb-switcher) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Simulation
@@ -52,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+## Geometry
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0223-rectangle-area) |
 <!---LeetCode Topics End-->
