@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0328-odd-even-linked-list](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0328-odd-even-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Math
 |  |
