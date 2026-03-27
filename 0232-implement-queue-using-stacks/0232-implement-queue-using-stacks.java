@@ -1,8 +1,9 @@
 class MyQueue {
-    private Stack<Integer> main = new Stack<>(); 
-    private Stack<Integer> helper = new Stack<>(); 
+    private Stack<Integer> main; 
+    private Stack<Integer> helper; 
     public MyQueue() {
-        
+        main = new Stack<>();
+        helper = new Stack<>();
     }
     
     public void push(int x) {
