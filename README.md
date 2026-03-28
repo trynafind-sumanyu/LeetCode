@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0794-valid-tic-tac-toe-state](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0794-valid-tic-tac-toe-state) |
 | [2906-construct-product-matrix](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0794-valid-tic-tac-toe-state](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0794-valid-tic-tac-toe-state) |
 | [2906-construct-product-matrix](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3546-equal-sum-grid-partition-i](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
