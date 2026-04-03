@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0319-bulb-switcher) |
 | [0509-fibonacci-number](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1025-divisor-game) |
+| [1137-n-th-tribonacci-number](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Simulation
 |  |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [1025-divisor-game](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1025-divisor-game) |
+| [1137-n-th-tribonacci-number](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 ## Recursion
 |  |
 | ------- |
