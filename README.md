@@ -126,9 +126,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0338-counting-bits](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0338-counting-bits) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0338-counting-bits) |
 | [0491-non-decreasing-subsequences](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0491-non-decreasing-subsequences) |
 ## Memoization
 |  |
