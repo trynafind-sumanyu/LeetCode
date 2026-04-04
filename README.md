@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2075-decode-the-slanted-ciphertext](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Brainteaser
 |  |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0392-is-subsequence) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 ## Greedy
