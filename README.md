@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0077-combinations) |
 | [0216-combination-sum-iii](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0491-non-decreasing-subsequences](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0491-non-decreasing-subsequences) |
