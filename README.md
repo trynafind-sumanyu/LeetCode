@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0874-walking-robot-simulation](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0874-walking-robot-simulation) |
+| [2069-walking-robot-simulation-ii](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Brainteaser
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [2069-walking-robot-simulation-ii](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2069-walking-robot-simulation-ii) |
 ## Queue
 |  |
 | ------- |
