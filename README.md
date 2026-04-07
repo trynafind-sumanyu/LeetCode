@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0060-permutation-sequence) |
 | [0070-climbing-stairs](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0070-climbing-stairs) |
 | [0223-rectangle-area](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0223-rectangle-area) |
 | [0319-bulb-switcher](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0319-bulb-switcher) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
+| [0060-permutation-sequence](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0060-permutation-sequence) |
 | [0509-fibonacci-number](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0509-fibonacci-number) |
 ## Game Theory
 |  |
