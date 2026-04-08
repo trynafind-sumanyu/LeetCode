@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3546-equal-sum-grid-partition-i](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Matrix
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2075-decode-the-slanted-ciphertext](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2751-robot-collisions](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Brainteaser
 |  |
 | ------- |
@@ -195,4 +197,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1622-fancy-sequence](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1622-fancy-sequence) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 <!---LeetCode Topics End-->
