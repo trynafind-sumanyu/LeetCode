@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3835-count-subarrays-with-cost-less-than-or-equal-to-k](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3835-count-subarrays-with-cost-less-than-or-equal-to-k) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Matrix
 |  |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [3835-count-subarrays-with-cost-less-than-or-equal-to-k](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3835-count-subarrays-with-cost-less-than-or-equal-to-k) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -245,4 +247,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0792-number-of-matching-subsequences](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0792-number-of-matching-subsequences) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3835-count-subarrays-with-cost-less-than-or-equal-to-k](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3835-count-subarrays-with-cost-less-than-or-equal-to-k) |
 <!---LeetCode Topics End-->
