@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0137-single-number-ii) |
 | [0189-rotate-array](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0189-rotate-array) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0135-candy) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
