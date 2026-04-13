@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0137-single-number-ii) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0189-rotate-array) |
 | [0216-combination-sum-iii](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0491-non-decreasing-subsequences](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0491-non-decreasing-subsequences) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0792-number-of-matching-subsequences](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0792-number-of-matching-subsequences) |
 ## Trie
 |  |
