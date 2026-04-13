@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0089-gray-code) |
 | [0189-rotate-array](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0189-rotate-array) |
 | [0223-rectangle-area](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0223-rectangle-area) |
+| [0233-number-of-digit-one](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0233-number-of-digit-one) |
 | [0319-bulb-switcher](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0319-bulb-switcher) |
 | [0509-fibonacci-number](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0509-fibonacci-number) |
 | [0906-super-palindromes](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0906-super-palindromes) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0233-number-of-digit-one](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0233-number-of-digit-one) |
 | [0338-counting-bits](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0509-fibonacci-number) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0060-permutation-sequence](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0060-permutation-sequence) |
+| [0233-number-of-digit-one](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0233-number-of-digit-one) |
 | [0509-fibonacci-number](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0509-fibonacci-number) |
 ## Game Theory
 |  |
