@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-number-of-matching-subsequences](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0792-number-of-matching-subsequences) |
 | [0794-valid-tic-tac-toe-state](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0794-valid-tic-tac-toe-state) |
 | [0874-walking-robot-simulation](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0874-walking-robot-simulation) |
+| [1095-find-in-mountain-array](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1095-find-in-mountain-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2751-robot-collisions](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2751-robot-collisions) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0792-number-of-matching-subsequences](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0792-number-of-matching-subsequences) |
+| [1095-find-in-mountain-array](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1095-find-in-mountain-array) |
 ## Trie
 |  |
 | ------- |
@@ -310,4 +312,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Interactive
+|  |
+| ------- |
+| [1095-find-in-mountain-array](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1095-find-in-mountain-array) |
 <!---LeetCode Topics End-->
