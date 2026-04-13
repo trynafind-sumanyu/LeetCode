@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0060-permutation-sequence](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0060-permutation-sequence) |
 | [0070-climbing-stairs](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0089-gray-code) |
 | [0189-rotate-array](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0189-rotate-array) |
 | [0223-rectangle-area](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0223-rectangle-area) |
 | [0319-bulb-switcher](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0319-bulb-switcher) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0491-non-decreasing-subsequences](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0491-non-decreasing-subsequences) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0338-counting-bits) |
