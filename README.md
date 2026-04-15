@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2906-construct-product-matrix](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3477-fruits-into-baskets-ii](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3477-fruits-into-baskets-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2075-decode-the-slanted-ciphertext](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2751-robot-collisions](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3477-fruits-into-baskets-ii](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3477-fruits-into-baskets-ii) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Brainteaser
 |  |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [1622-fancy-sequence](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1622-fancy-sequence) |
+| [3477-fruits-into-baskets-ii](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3477-fruits-into-baskets-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -296,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0792-number-of-matching-subsequences](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0792-number-of-matching-subsequences) |
 | [1095-find-in-mountain-array](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1095-find-in-mountain-array) |
+| [3477-fruits-into-baskets-ii](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3477-fruits-into-baskets-ii) |
 ## Trie
 |  |
 | ------- |
@@ -329,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [3477-fruits-into-baskets-ii](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3477-fruits-into-baskets-ii) |
 ## Interactive
 |  |
 | ------- |
