@@ -1,10 +1,32 @@
 class Solution {
     public int countDigitOne(int n) {
-        int countr = 0;
-        for (long i = 1; i <= n; i *= 10) {
-            long divider = i * 10;
-            countr += (n / divider) * i + Math.min(Math.max(n % divider - i + 1, 0L), i);
+        if(n < 10){
+            if(n == 0){
+                return 0;
+            }
+            return 1;
         }
-        return countr;
+
+        //n = 635
+        int len = (int)Math.log10(n)+1;
+        // len = 3
+
+        int base = (int)Math.pow(10,len-1);
+        // base = 100
+
+        int mult = n/base;
+        int rem = n%base;
+
+        int numOfOnes = 0;
+
+        if(mult == 1){
+            numOfOnes = n - base + 1;
+        }
+        else {
+            numOfOnes = base;
+        }
+ 
+        return countDigitOne(base-1)*mult + numOfOnes + countDigitOne(rem);
+
     }
 }
