@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-walking-robot-simulation](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [0904-fruit-into-baskets](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1095-find-in-mountain-array](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1095-find-in-mountain-array) |
+| [1386-cinema-seat-allocation](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0811-subdomain-visit-count](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0811-subdomain-visit-count) |
 | [0874-walking-robot-simulation](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [0904-fruit-into-baskets](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0904-fruit-into-baskets) |
+| [1386-cinema-seat-allocation](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3488-closest-equal-element-queries](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3488-closest-equal-element-queries) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0135-candy) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1386-cinema-seat-allocation](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2573-find-the-string-with-lcp](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2573-find-the-string-with-lcp) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
@@ -284,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0338-counting-bits](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0338-counting-bits) |
 | [0491-non-decreasing-subsequences](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0491-non-decreasing-subsequences) |
+| [1386-cinema-seat-allocation](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [3858-minimum-bitwise-or-from-grid](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3858-minimum-bitwise-or-from-grid) |
 ## Memoization
