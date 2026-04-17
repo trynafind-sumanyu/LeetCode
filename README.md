@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0319-bulb-switcher) |
 | [0509-fibonacci-number](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0509-fibonacci-number) |
 | [0906-super-palindromes](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0906-super-palindromes) |
+| [1012-numbers-with-repeated-digits](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1012-numbers-with-repeated-digits) |
 | [1025-divisor-game](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1486-xor-operation-in-an-array](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1486-xor-operation-in-an-array) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0746-min-cost-climbing-stairs](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0792-number-of-matching-subsequences](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0792-number-of-matching-subsequences) |
+| [1012-numbers-with-repeated-digits](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1012-numbers-with-repeated-digits) |
 | [1025-divisor-game](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [2463-minimum-total-distance-traveled](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2463-minimum-total-distance-traveled) |
