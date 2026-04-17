@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1486-xor-operation-in-an-array](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 | [1622-fancy-sequence](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1622-fancy-sequence) |
+| [2719-count-of-integers](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2719-count-of-integers) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3783-mirror-distance-of-an-integer) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2075-decode-the-slanted-ciphertext](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2573-find-the-string-with-lcp) |
+| [2719-count-of-integers](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2719-count-of-integers) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3853-merge-close-characters](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3853-merge-close-characters) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [2463-minimum-total-distance-traveled](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2463-minimum-total-distance-traveled) |
 | [2573-find-the-string-with-lcp](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2573-find-the-string-with-lcp) |
+| [2719-count-of-integers](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2719-count-of-integers) |
 | [2771-longest-non-decreasing-subarray-from-two-arrays](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2771-longest-non-decreasing-subarray-from-two-arrays) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 ## Bit Manipulation
