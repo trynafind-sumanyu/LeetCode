@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3783-mirror-distance-of-an-integer) |
+| [3869-count-fancy-numbers-in-a-range](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3869-count-fancy-numbers-in-a-range) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Simulation
 |  |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2719-count-of-integers](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2719-count-of-integers) |
 | [2771-longest-non-decreasing-subarray-from-two-arrays](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2771-longest-non-decreasing-subarray-from-two-arrays) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
+| [3869-count-fancy-numbers-in-a-range](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3869-count-fancy-numbers-in-a-range) |
 ## Bit Manipulation
 |  |
 | ------- |
