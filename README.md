@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-minimum-distance-to-the-target-element](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
+| [2454-next-greater-element-iv](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2454-next-greater-element-iv) |
 | [2463-minimum-total-distance-traveled](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2573-find-the-string-with-lcp) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2454-next-greater-element-iv](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2454-next-greater-element-iv) |
 | [2751-robot-collisions](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2751-robot-collisions) |
 ## Design
 |  |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [2454-next-greater-element-iv](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2454-next-greater-element-iv) |
 ## String
 |  |
 | ------- |
@@ -272,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0047-permutations-ii](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0047-permutations-ii) |
 | [0792-number-of-matching-subsequences](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0792-number-of-matching-subsequences) |
+| [2454-next-greater-element-iv](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2454-next-greater-element-iv) |
 | [2463-minimum-total-distance-traveled](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2463-minimum-total-distance-traveled) |
 | [2751-robot-collisions](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2751-robot-collisions) |
 ## Dynamic Programming
@@ -360,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [1095-find-in-mountain-array](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1095-find-in-mountain-array) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2454-next-greater-element-iv](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2454-next-greater-element-iv) |
 | [3477-fruits-into-baskets-ii](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3477-fruits-into-baskets-ii) |
 | [3479-fruits-into-baskets-iii](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3479-fruits-into-baskets-iii) |
 | [3488-closest-equal-element-queries](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3488-closest-equal-element-queries) |
@@ -433,4 +438,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0811-subdomain-visit-count](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0811-subdomain-visit-count) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2454-next-greater-element-iv](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2454-next-greater-element-iv) |
 <!---LeetCode Topics End-->
