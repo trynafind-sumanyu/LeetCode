@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2463-minimum-total-distance-traveled](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0392-is-subsequence) |
 | [0556-next-greater-element-iii](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [0647-palindromic-substrings](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0647-palindromic-substrings) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Geometry
 |  |
 | ------- |
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-number-of-matching-subsequences](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0792-number-of-matching-subsequences) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [1095-find-in-mountain-array](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1095-find-in-mountain-array) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3477-fruits-into-baskets-ii](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3477-fruits-into-baskets-ii) |
 | [3479-fruits-into-baskets-iii](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3479-fruits-into-baskets-iii) |
 | [3488-closest-equal-element-queries](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3488-closest-equal-element-queries) |
