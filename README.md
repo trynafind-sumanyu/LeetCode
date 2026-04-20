@@ -307,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1012-numbers-with-repeated-digits](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1012-numbers-with-repeated-digits) |
 | [1025-divisor-game](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1137-n-th-tribonacci-number) |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [2463-minimum-total-distance-traveled](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2463-minimum-total-distance-traveled) |
 | [2573-find-the-string-with-lcp](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2573-find-the-string-with-lcp) |
 | [2719-count-of-integers](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2719-count-of-integers) |
