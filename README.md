@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0307-range-sum-query-mutable](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0491-non-decreasing-subsequences](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0503-next-greater-element-ii) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0041-first-missing-positive) |
 | [0187-repeated-dna-sequences](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0187-repeated-dna-sequences) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0491-non-decreasing-subsequences](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0792-number-of-matching-subsequences](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0792-number-of-matching-subsequences) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0047-permutations-ii) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0792-number-of-matching-subsequences](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0792-number-of-matching-subsequences) |
 | [2007-find-original-array-from-doubled-array](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2007-find-original-array-from-doubled-array) |
 | [2454-next-greater-element-iv](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2454-next-greater-element-iv) |
