@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2007-find-original-array-from-doubled-array](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2007-find-original-array-from-doubled-array) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2121-intervals-between-identical-elements](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2121-intervals-between-identical-elements) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2454-next-greater-element-iv](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2454-next-greater-element-iv) |
 | [2463-minimum-total-distance-traveled](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2463-minimum-total-distance-traveled) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0724-find-pivot-index](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0724-find-pivot-index) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+| [2121-intervals-between-identical-elements](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2121-intervals-between-identical-elements) |
 | [2615-sum-of-distances](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2615-sum-of-distances) |
 | [2906-construct-product-matrix](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2906-construct-product-matrix) |
 | [3546-equal-sum-grid-partition-i](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1386-cinema-seat-allocation](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [2007-find-original-array-from-doubled-array](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2007-find-original-array-from-doubled-array) |
+| [2121-intervals-between-identical-elements](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2121-intervals-between-identical-elements) |
 | [2615-sum-of-distances](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2615-sum-of-distances) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3488-closest-equal-element-queries](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3488-closest-equal-element-queries) |
