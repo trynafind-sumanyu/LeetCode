@@ -1,12 +1,6 @@
 class Solution {
     public String sortVowels(String s) {
         int n = s.length();
-        Map<Character, Integer> map = new HashMap<>();
-        boolean aPos = false;
-        boolean ePos = false;
-        boolean iPos = false;
-        boolean oPos = false;
-        boolean uPos = false;
 
         int a = 0;
         int e = 0;
