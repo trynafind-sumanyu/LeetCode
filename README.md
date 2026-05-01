@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0307-range-sum-query-mutable](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0396-rotate-function](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0396-rotate-function) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0491-non-decreasing-subsequences](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0233-number-of-digit-one](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0233-number-of-digit-one) |
 | [0319-bulb-switcher](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0319-bulb-switcher) |
 | [0357-count-numbers-with-unique-digits](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
+| [0396-rotate-function](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0396-rotate-function) |
 | [0509-fibonacci-number](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0509-fibonacci-number) |
 | [0556-next-greater-element-iii](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0902-numbers-at-most-n-given-digit-set) |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0338-counting-bits) |
 | [0357-count-numbers-with-unique-digits](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0392-is-subsequence](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0392-is-subsequence) |
+| [0396-rotate-function](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0396-rotate-function) |
 | [0509-fibonacci-number](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0509-fibonacci-number) |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0600-non-negative-integers-without-consecutive-ones) |
 | [0647-palindromic-substrings](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0647-palindromic-substrings) |
