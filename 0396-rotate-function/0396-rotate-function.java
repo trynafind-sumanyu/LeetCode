@@ -1,7 +1,7 @@
 class Solution {
     public int maxRotateFunction(int[] nums) {
         int n = nums.length;
-        int[] f = new int[n];
+        int f = 0;
         /*
             f[0] = 0*[0] + 1*[1] + 2*[2] + 3*[3]
             f[1] = 1*[0] + 2*[1] + 3*[2] + 0*[3]
@@ -25,13 +25,13 @@ class Solution {
 
         for(int i = 0;i<n;i++){
             //f[0]
-            f[0] += nums[i]*i;
+            f += nums[i]*i;
         }
 
-        int max = f[0];
+        int max = f;
         for(int i = 1;i<n;i++){
-            f[i] = f[i-1] + sum - n*nums[n-i];
-            max = Math.max(max,f[i]);
+            f += sum - n*nums[n-i];
+            max = Math.max(max,f);
         }
         return max;
     }
