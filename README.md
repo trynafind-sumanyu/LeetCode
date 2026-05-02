@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0904-fruit-into-baskets](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1095-find-in-mountain-array](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1095-find-in-mountain-array) |
+| [1306-jump-game-iii](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1306-jump-game-iii) |
 | [1386-cinema-seat-allocation](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
@@ -474,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0101-symmetric-tree) |
+| [1306-jump-game-iii](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1306-jump-game-iii) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 ## Binary Tree
 |  |
@@ -507,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0101-symmetric-tree) |
+| [1306-jump-game-iii](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1306-jump-game-iii) |
 ## Bucket Sort
 |  |
 | ------- |
