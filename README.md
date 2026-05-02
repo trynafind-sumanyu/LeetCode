@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0491-non-decreasing-subsequences](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0561-array-partition](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0561-array-partition) |
 | [0724-find-pivot-index](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0724-find-pivot-index) |
 | [0746-min-cost-climbing-stairs](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0792-number-of-matching-subsequences](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0792-number-of-matching-subsequences) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0135-candy) |
 | [0409-longest-palindrome](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0409-longest-palindrome) |
+| [0561-array-partition](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0561-array-partition) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1386-cinema-seat-allocation](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0047-permutations-ii) |
 | [0164-maximum-gap](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0164-maximum-gap) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0561-array-partition](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0561-array-partition) |
 | [0792-number-of-matching-subsequences](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0792-number-of-matching-subsequences) |
 | [2007-find-original-array-from-doubled-array](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2007-find-original-array-from-doubled-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -525,4 +528,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0164-maximum-gap) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
