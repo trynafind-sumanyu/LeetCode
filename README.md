@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0657-robot-return-to-origin](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0792-number-of-matching-subsequences](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0792-number-of-matching-subsequences) |
+| [0796-rotate-string](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0796-rotate-string) |
 | [0811-subdomain-visit-count](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0811-subdomain-visit-count) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0906-super-palindromes](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0906-super-palindromes) |
@@ -532,4 +533,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0561-array-partition) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
