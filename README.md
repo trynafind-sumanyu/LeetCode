@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0396-rotate-function) |
 | [0509-fibonacci-number](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0509-fibonacci-number) |
 | [0556-next-greater-element-iii](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0556-next-greater-element-iii) |
+| [0728-self-dividing-numbers](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [0788-rotated-digits](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0788-rotated-digits) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0906-super-palindromes](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0906-super-palindromes) |
