@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0041-first-missing-positive) |
 | [0047-permutations-ii](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0048-rotate-image) |
 | [0794-valid-tic-tac-toe-state](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0794-valid-tic-tac-toe-state) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2573-find-the-string-with-lcp](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2573-find-the-string-with-lcp) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0060-permutation-sequence) |
 | [0070-climbing-stairs](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0089-gray-code) |
