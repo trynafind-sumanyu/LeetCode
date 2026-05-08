@@ -521,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0872-leaf-similar-trees) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -535,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0872-leaf-similar-trees](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0872-leaf-similar-trees) |
 | [1306-jump-game-iii](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1306-jump-game-iii) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -547,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0872-leaf-similar-trees) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -577,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0547-number-of-provinces) |
 | [1306-jump-game-iii](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1306-jump-game-iii) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Bucket Sort
 |  |
