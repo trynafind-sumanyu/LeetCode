@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3488-closest-equal-element-queries](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3488-closest-equal-element-queries) |
 | [3546-equal-sum-grid-partition-i](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3660-jump-game-ix](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3660-jump-game-ix) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3488-closest-equal-element-queries](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3488-closest-equal-element-queries) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3100-water-bottles-ii](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3100-water-bottles-ii) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3869-count-fancy-numbers-in-a-range](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3869-count-fancy-numbers-in-a-range) |
@@ -567,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0226-invert-binary-tree) |
 | [1306-jump-game-iii](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1306-jump-game-iii) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -583,4 +587,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0796-rotate-string) |
+## Number Theory
+|  |
+| ------- |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 <!---LeetCode Topics End-->
