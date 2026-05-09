@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
+| [0752-open-the-lock](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0752-open-the-lock) |
 | [0757-set-intersection-size-at-least-two](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0757-set-intersection-size-at-least-two) |
 | [0792-number-of-matching-subsequences](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0792-number-of-matching-subsequences) |
 | [0794-valid-tic-tac-toe-state](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0794-valid-tic-tac-toe-state) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0491-non-decreasing-subsequences](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0752-open-the-lock](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0752-open-the-lock) |
 | [0792-number-of-matching-subsequences](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0792-number-of-matching-subsequences) |
 | [0811-subdomain-visit-count](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0811-subdomain-visit-count) |
 | [0874-walking-robot-simulation](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0874-walking-robot-simulation) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0556-next-greater-element-iii](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [0647-palindromic-substrings](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0657-robot-return-to-origin](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0657-robot-return-to-origin) |
+| [0752-open-the-lock](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0752-open-the-lock) |
 | [0792-number-of-matching-subsequences](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0792-number-of-matching-subsequences) |
 | [0796-rotate-string](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0796-rotate-string) |
 | [0811-subdomain-visit-count](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0811-subdomain-visit-count) |
@@ -593,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0733-flood-fill) |
+| [0752-open-the-lock](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0752-open-the-lock) |
 | [1306-jump-game-iii](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1306-jump-game-iii) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
