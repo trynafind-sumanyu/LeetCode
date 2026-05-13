@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-jump-game-iii](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1306-jump-game-iii) |
 | [1386-cinema-seat-allocation](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0724-find-pivot-index) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [2121-intervals-between-identical-elements](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2121-intervals-between-identical-elements) |
 | [2615-sum-of-distances](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2615-sum-of-distances) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-walking-robot-simulation](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [0904-fruit-into-baskets](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1386-cinema-seat-allocation](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1386-cinema-seat-allocation) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2007-find-original-array-from-doubled-array](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2007-find-original-array-from-doubled-array) |
 | [2121-intervals-between-identical-elements](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2121-intervals-between-identical-elements) |
 | [2384-largest-palindromic-number](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2384-largest-palindromic-number) |
