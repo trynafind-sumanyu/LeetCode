@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2573-find-the-string-with-lcp](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2573-find-the-string-with-lcp) |
 | [2615-sum-of-distances](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2615-sum-of-distances) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2751-robot-collisions](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2751-robot-collisions) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2771-longest-non-decreasing-subarray-from-two-arrays](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2771-longest-non-decreasing-subarray-from-two-arrays) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2384-largest-palindromic-number](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2384-largest-palindromic-number) |
 | [2540-minimum-common-value](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2615-sum-of-distances) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3488-closest-equal-element-queries](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3488-closest-equal-element-queries) |
@@ -456,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1486-xor-operation-in-an-array](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3858-minimum-bitwise-or-from-grid](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3858-minimum-bitwise-or-from-grid) |
 ## Memoization
 |  |
