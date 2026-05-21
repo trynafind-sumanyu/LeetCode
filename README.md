@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3079-find-the-sum-of-encrypted-integers) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2615-sum-of-distances](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2784-check-if-array-is-good) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3488-closest-equal-element-queries](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3488-closest-equal-element-queries) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2719-count-of-integers](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2719-count-of-integers) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3853-merge-close-characters](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3853-merge-close-characters) |
 ## Greedy
 |  |
@@ -520,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0792-number-of-matching-subsequences](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0792-number-of-matching-subsequences) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Monotonic Queue
 |  |
 | ------- |
