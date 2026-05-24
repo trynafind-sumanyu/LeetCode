@@ -1,4 +1,4 @@
-//Approach 1 Recursion + Memo -> TopDown Approach
+//Approach 2 Bottom Up 
 
 // T.C. = for every n -> O(n) we traverse 2d indices hence -----> O(n*2*d) == O(n*d)
 // S.C. = One 1-d array ----------------------------------------------------> O(n)
@@ -10,45 +10,51 @@ class Solution {
     public int maxJumps(int[] arr, int d) {
 
         int n = arr.length;
-        int result = 1;
+
+        int[][] sortArr = new int[n][2];
+
+        for(int i = 0;i<n;i++){
+            sortArr[i][0] = arr[i];
+            sortArr[i][1] = i;
+        }
+
+        Arrays.sort(sortArr, (a,b) -> Integer.compare(a[0], b[0])); //Sorting based on elements in arr with their respective index value
 
         dp = new int[n];
         Arrays.fill(dp,-1);
 
-        for(int i = 0;i<n;i++){
-            result = Math.max(result,solve(arr,i,d));
-        }
+        for(int[] a : sortArr){
 
-        return result;
-    }
+            int result = 1;
+            int e = a[0];
+            int i = a[1];
 
-    private int solve(int[] arr,int i, int d){
-
-        //If memorized value occured return it.
-        if(dp[i] != -1){
-            return dp[i];
-        }
-
-        int result = 1;
-
-        //left side
-        for(int j = i-1;j >= Math.max(0,i-d);j--){
-            if(arr[j] >= arr[i]){
-                break;
+            //left side
+            for(int j = i-1;j >= Math.max(0,i-d);j--){
+                if(arr[j] >= arr[i]){
+                    break;
+                }
+                result = Math.max(result,1+dp[j]);
             }
-            result = Math.max(result,1+solve(arr,j,d));
-        }
 
-        //right side
-        for(int j = i+1;j <= Math.min(arr.length-1,i+d);j++){
-            if(arr[j] >= arr[i]){
-                break;
+            //right side
+            for(int j = i+1;j <= Math.min(arr.length-1,i+d);j++){
+                if(arr[j] >= arr[i]){
+                    break;
+                }
+                result = Math.max(result,1+dp[j]);
             }
-            result = Math.max(result,1+solve(arr,j,d));
+
+            //Storing Result for each i
+            dp[i] = result;
         }
 
-        //Memorization happens here
-        return dp[i] = result;
-    }
+        //After filling up find the max value got from an index
+        int max = 1;
+        for(int i : dp){
+            max = Math.max(max,i);
+        }
 
+        return max;
+    }
 }
