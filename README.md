@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3783-mirror-distance-of-an-integer](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3869-count-fancy-numbers-in-a-range](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3869-count-fancy-numbers-in-a-range) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3932-count-k-th-roots-in-a-range](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3932-count-k-th-roots-in-a-range) |
 ## Simulation
 |  |
 | ------- |
@@ -523,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3477-fruits-into-baskets-ii](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3477-fruits-into-baskets-ii) |
 | [3479-fruits-into-baskets-iii](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3479-fruits-into-baskets-iii) |
 | [3488-closest-equal-element-queries](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3488-closest-equal-element-queries) |
+| [3932-count-k-th-roots-in-a-range](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3932-count-k-th-roots-in-a-range) |
 ## Trie
 |  |
 | ------- |
