@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3488-closest-equal-element-queries](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3488-closest-equal-element-queries) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3853-merge-close-characters](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3853-merge-close-characters) |
 ## Greedy
 |  |
