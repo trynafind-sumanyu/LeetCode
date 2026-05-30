@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3093-longest-common-suffix-queries](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3093-longest-common-suffix-queries) |
+| [3161-block-placement-queries](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3161-block-placement-queries) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3477-fruits-into-baskets-ii](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3477-fruits-into-baskets-ii) |
@@ -500,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [1622-fancy-sequence](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1622-fancy-sequence) |
+| [3161-block-placement-queries](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3161-block-placement-queries) |
 | [3477-fruits-into-baskets-ii](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3477-fruits-into-baskets-ii) |
 | [3479-fruits-into-baskets-iii](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3479-fruits-into-baskets-iii) |
 ## Divide and Conquer
@@ -529,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2454-next-greater-element-iv](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2454-next-greater-element-iv) |
 | [2540-minimum-common-value](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2540-minimum-common-value) |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
+| [3161-block-placement-queries](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3161-block-placement-queries) |
 | [3477-fruits-into-baskets-ii](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3477-fruits-into-baskets-ii) |
 | [3479-fruits-into-baskets-iii](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3479-fruits-into-baskets-iii) |
 | [3488-closest-equal-element-queries](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3488-closest-equal-element-queries) |
@@ -563,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [3161-block-placement-queries](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3161-block-placement-queries) |
 ## Merge Sort
 |  |
 | ------- |
