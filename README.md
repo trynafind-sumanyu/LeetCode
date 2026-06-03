@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3548-equal-sum-grid-partition-ii](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3660-jump-game-ix](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3660-jump-game-ix) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2540-minimum-common-value) |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Geometry
 |  |
 | ------- |
@@ -391,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3858-minimum-bitwise-or-from-grid](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3858-minimum-bitwise-or-from-grid) |
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
 ## Backtracking
@@ -435,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -547,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3479-fruits-into-baskets-iii](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3479-fruits-into-baskets-iii) |
 | [3488-closest-equal-element-queries](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3488-closest-equal-element-queries) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3932-count-k-th-roots-in-a-range](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3932-count-k-th-roots-in-a-range) |
 ## Trie
 |  |
