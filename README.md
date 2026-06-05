@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3100-water-bottles-ii](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3100-water-bottles-ii) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3869-count-fancy-numbers-in-a-range](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3869-count-fancy-numbers-in-a-range) |
@@ -475,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3660-jump-game-ix](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3660-jump-game-ix) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3742-maximum-path-score-in-a-grid) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3869-count-fancy-numbers-in-a-range](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3869-count-fancy-numbers-in-a-range) |
 ## Bit Manipulation
 |  |
