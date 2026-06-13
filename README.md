@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3742-maximum-path-score-in-a-grid](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3835-count-subarrays-with-cost-less-than-or-equal-to-k](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3835-count-subarrays-with-cost-less-than-or-equal-to-k) |
+| [3838-weighted-word-mapping](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3838-weighted-word-mapping) |
 | [3858-minimum-bitwise-or-from-grid](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3858-minimum-bitwise-or-from-grid) |
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3100-water-bottles-ii](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3100-water-bottles-ii) |
 | [3477-fruits-into-baskets-ii](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3477-fruits-into-baskets-ii) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3838-weighted-word-mapping](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3838-weighted-word-mapping) |
 ## Brainteaser
 |  |
 | ------- |
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3093-longest-common-suffix-queries](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3838-weighted-word-mapping](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3838-weighted-word-mapping) |
 | [3853-merge-close-characters](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3853-merge-close-characters) |
 ## Greedy
 |  |
