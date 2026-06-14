@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0086-partition-list) |
 | [0328-odd-even-linked-list](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0328-odd-even-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Math
 |  |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0647-palindromic-substrings) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1861-rotating-the-box) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2540-minimum-common-value) |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0682-baseball-game) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2454-next-greater-element-iv](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2454-next-greater-element-iv) |
 | [2751-robot-collisions](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2751-robot-collisions) |
 ## Design
