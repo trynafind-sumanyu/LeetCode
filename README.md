@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0811-subdomain-visit-count](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0811-subdomain-visit-count) |
 | [0874-walking-robot-simulation](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [0904-fruit-into-baskets](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0904-fruit-into-baskets) |
+| [1189-maximum-number-of-balloons](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1345-jump-game-iv](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1345-jump-game-iv) |
 | [1386-cinema-seat-allocation](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0906-super-palindromes](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0906-super-palindromes) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1189-maximum-number-of-balloons](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2343-query-kth-smallest-trimmed-number) |
@@ -680,6 +682,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0811-subdomain-visit-count](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0811-subdomain-visit-count) |
+| [1189-maximum-number-of-balloons](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [2384-largest-palindromic-number](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2384-largest-palindromic-number) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
