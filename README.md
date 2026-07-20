@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1095-find-in-mountain-array](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1095-find-in-mountain-array) |
+| [1260-shift-2d-grid](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1306-jump-game-iii](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1345-jump-game-iv) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0733-flood-fill) |
 | [0794-valid-tic-tac-toe-state](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0794-valid-tic-tac-toe-state) |
+| [1260-shift-2d-grid](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1861-rotating-the-box](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1861-rotating-the-box) |
 | [1914-cyclically-rotating-a-grid](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1914-cyclically-rotating-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0682-baseball-game) |
 | [0874-walking-robot-simulation](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0874-walking-robot-simulation) |
+| [1260-shift-2d-grid](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1518-water-bottles](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1518-water-bottles) |
 | [1914-cyclically-rotating-a-grid](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1914-cyclically-rotating-a-grid) |
 | [2069-walking-robot-simulation-ii](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2069-walking-robot-simulation-ii) |
