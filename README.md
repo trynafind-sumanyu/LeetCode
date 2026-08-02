@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-valid-tic-tac-toe-state](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0794-valid-tic-tac-toe-state) |
 | [0811-subdomain-visit-count](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0811-subdomain-visit-count) |
 | [0874-walking-robot-simulation](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0874-walking-robot-simulation) |
+| [0877-stone-game](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0877-stone-game) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0904-fruit-into-baskets](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0912-sort-an-array) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0556-next-greater-element-iii](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [0728-self-dividing-numbers](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [0788-rotated-digits](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0788-rotated-digits) |
+| [0877-stone-game](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0877-stone-game) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0906-super-palindromes](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0906-super-palindromes) |
 | [1012-numbers-with-repeated-digits](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1012-numbers-with-repeated-digits) |
@@ -497,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0788-rotated-digits](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0788-rotated-digits) |
 | [0792-number-of-matching-subsequences](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0792-number-of-matching-subsequences) |
+| [0877-stone-game](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0877-stone-game) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0918-maximum-sum-circular-subarray](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1012-numbers-with-repeated-digits](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1012-numbers-with-repeated-digits) |
@@ -549,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1025-divisor-game) |
 ## Segment Tree
 |  |
