@@ -684,6 +684,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-jump-game-iii](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1306-jump-game-iii) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
+| [3310-remove-methods-from-project](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
@@ -740,6 +741,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-jump-game-iii](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1345-jump-game-iv) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
+| [3310-remove-methods-from-project](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3310-remove-methods-from-project) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Bucket Sort
 |  |
@@ -769,6 +771,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0547-number-of-provinces) |
+| [3310-remove-methods-from-project](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3310-remove-methods-from-project) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3620-network-recovery-pathways) |
 ## Quickselect
