@@ -394,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0906-super-palindromes](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0906-super-palindromes) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1189-maximum-number-of-balloons](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1189-maximum-number-of-balloons) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2075-decode-the-slanted-ciphertext) |
@@ -514,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1012-numbers-with-repeated-digits](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1012-numbers-with-repeated-digits) |
 | [1025-divisor-game](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1137-n-th-tribonacci-number) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1340-jump-game-v](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1340-jump-game-v) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [2463-minimum-total-distance-traveled](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2463-minimum-total-distance-traveled) |
