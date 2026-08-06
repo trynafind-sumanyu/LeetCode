@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1340-jump-game-v](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1345-jump-game-iv) |
 | [1386-cinema-seat-allocation](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1386-cinema-seat-allocation) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0733-flood-fill) |
 | [0794-valid-tic-tac-toe-state](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0794-valid-tic-tac-toe-state) |
 | [1260-shift-2d-grid](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1260-shift-2d-grid) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1861-rotating-the-box](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1861-rotating-the-box) |
 | [1914-cyclically-rotating-a-grid](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1914-cyclically-rotating-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -536,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1340-jump-game-v](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1340-jump-game-v) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [2463-minimum-total-distance-traveled](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2463-minimum-total-distance-traveled) |
 | [2573-find-the-string-with-lcp](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2573-find-the-string-with-lcp) |
 | [2719-count-of-integers](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2719-count-of-integers) |
