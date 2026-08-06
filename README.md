@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3660-jump-game-ix](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3660-jump-game-ix) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3689-maximum-total-subarray-value-i](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
@@ -486,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3731-find-missing-elements](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
 |  |
@@ -526,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3620-network-recovery-pathways](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3620-network-recovery-pathways) |
 | [3660-jump-game-ix](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3660-jump-game-ix) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3869-count-fancy-numbers-in-a-range](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3869-count-fancy-numbers-in-a-range) |
@@ -612,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3620-network-recovery-pathways](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3620-network-recovery-pathways) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3932-count-k-th-roots-in-a-range](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3932-count-k-th-roots-in-a-range) |
 ## Trie
 |  |
