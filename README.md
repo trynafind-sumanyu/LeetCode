@@ -405,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1189-maximum-number-of-balloons](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2075-decode-the-slanted-ciphertext) |
@@ -473,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0491-non-decreasing-subsequences](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0491-non-decreasing-subsequences) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 ## Sorting
 |  |
