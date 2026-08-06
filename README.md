@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3093-longest-common-suffix-queries](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3093-longest-common-suffix-queries) |
 | [3161-block-placement-queries](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3161-block-placement-queries) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3225-maximum-score-from-grid-operations](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3225-maximum-score-from-grid-operations) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3477-fruits-into-baskets-ii](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3477-fruits-into-baskets-ii) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2906-construct-product-matrix](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3225-maximum-score-from-grid-operations](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3225-maximum-score-from-grid-operations) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3546-equal-sum-grid-partition-i](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2615-sum-of-distances](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2615-sum-of-distances) |
 | [2906-construct-product-matrix](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3225-maximum-score-from-grid-operations](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3225-maximum-score-from-grid-operations) |
 | [3546-equal-sum-grid-partition-i](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3548-equal-sum-grid-partition-ii) |
 ## Enumeration
@@ -533,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2771-longest-non-decreasing-subarray-from-two-arrays](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2771-longest-non-decreasing-subarray-from-two-arrays) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
+| [3225-maximum-score-from-grid-operations](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3225-maximum-score-from-grid-operations) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3620-network-recovery-pathways](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3620-network-recovery-pathways) |
 | [3660-jump-game-ix](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3660-jump-game-ix) |
