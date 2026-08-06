@@ -413,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3093-longest-common-suffix-queries](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3838-weighted-word-mapping](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3838-weighted-word-mapping) |
 | [3853-merge-close-characters](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3853-merge-close-characters) |
@@ -439,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2573-find-the-string-with-lcp](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2573-find-the-string-with-lcp) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2966-divide-array-into-arrays-with-max-difference) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
@@ -776,6 +778,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0796-rotate-string) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Number Theory
 |  |
 | ------- |
