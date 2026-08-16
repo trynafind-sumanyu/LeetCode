@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1914-cyclically-rotating-a-grid](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1914-cyclically-rotating-a-grid) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2007-find-original-array-from-doubled-array](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2007-find-original-array-from-doubled-array) |
+| [2029-stone-game-ix](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2029-stone-game-ix) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1622-fancy-sequence](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1622-fancy-sequence) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2029-stone-game-ix](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2029-stone-game-ix) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2719-count-of-integers](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2719-count-of-integers) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -456,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2007-find-original-array-from-doubled-array](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2007-find-original-array-from-doubled-array) |
+| [2029-stone-game-ix](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2029-stone-game-ix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -608,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1025-divisor-game) |
 | [1140-stone-game-ii](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2029-stone-game-ix) |
 ## Segment Tree
 |  |
 | ------- |
@@ -770,6 +774,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0811-subdomain-visit-count](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0811-subdomain-visit-count) |
 | [1189-maximum-number-of-balloons](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1189-maximum-number-of-balloons) |
+| [2029-stone-game-ix](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2029-stone-game-ix) |
 | [2384-largest-palindromic-number](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2384-largest-palindromic-number) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
@@ -860,15 +865,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
