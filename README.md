@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1340-jump-game-v](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1345-jump-game-iv) |
 | [1386-cinema-seat-allocation](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1386-cinema-seat-allocation) |
+| [1563-stone-game-v](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1563-stone-game-v) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-xor-operation-in-an-array](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 | [1510-stone-game-iv](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1510-stone-game-iv) |
 | [1518-water-bottles](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1518-water-bottles) |
+| [1563-stone-game-v](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1563-stone-game-v) |
 | [1622-fancy-sequence](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1622-fancy-sequence) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -558,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1340-jump-game-v](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1340-jump-game-v) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1510-stone-game-iv](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1563-stone-game-v) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [2463-minimum-total-distance-traveled](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2463-minimum-total-distance-traveled) |
 | [2573-find-the-string-with-lcp](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2573-find-the-string-with-lcp) |
@@ -611,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1025-divisor-game) |
 | [1140-stone-game-ii](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/trynafind-sumanyu/LeetCode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2029-stone-game-ix) |
 ## Segment Tree
 |  |
