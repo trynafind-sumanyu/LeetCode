@@ -441,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3093-longest-common-suffix-queries](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3093-longest-common-suffix-queries) |
@@ -694,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0904-fruit-into-baskets](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0904-fruit-into-baskets) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Rolling Hash
 |  |
