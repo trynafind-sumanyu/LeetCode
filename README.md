@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3477-fruits-into-baskets-ii](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3477-fruits-into-baskets-ii) |
 | [3479-fruits-into-baskets-iii](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3479-fruits-into-baskets-iii) |
+| [3483-unique-3-digit-even-numbers](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3488-closest-equal-element-queries](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3488-closest-equal-element-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3483-unique-3-digit-even-numbers](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3488-closest-equal-element-queries](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3488-closest-equal-element-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -617,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0060-permutation-sequence) |
 | [0233-number-of-digit-one](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0233-number-of-digit-one) |
 | [0509-fibonacci-number](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0509-fibonacci-number) |
+| [3483-unique-3-digit-even-numbers](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Game Theory
 |  |
 | ------- |
