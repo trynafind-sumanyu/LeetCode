@@ -377,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0127-word-ladder](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0127-word-ladder) |
 | [0187-repeated-dna-sequences](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0392-is-subsequence](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0392-is-subsequence) |
@@ -544,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0096-unique-binary-search-trees) |
@@ -912,4 +915,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/trynafind-sumanyu/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
