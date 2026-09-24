@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0041-first-missing-positive) |
@@ -418,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0022-generate-parentheses) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0127-word-ladder](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0127-word-ladder) |
 | [0187-repeated-dna-sequences](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0187-repeated-dna-sequences) |
@@ -703,6 +705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0187-repeated-dna-sequences](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0904-fruit-into-baskets](https://github.com/trynafind-sumanyu/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/trynafind-sumanyu/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
